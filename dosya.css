@@ -1,0 +1,117 @@
+.convertingColorsRadialGradient{ 
+    background-image: radial-gradient(circle farthest-corner at center,
+     rgba(79, 66, 181, 1) 10%, rgba(95, 84, 181, 1) 20%, rgba(111, 102, 181, 1) 30%, rgba(127, 120, 181, 1) 40%,
+      rgba(143, 138, 181, 1) 50%, rgba(159, 157, 181, 1) 60%, rgba(175, 175, 181, 1) 70%,
+     rgba(191, 193, 181, 1) 80%, rgba(207, 211, 181, 1) 90%, rgba(223, 229, 181, 1) 100%);
+     }
+
+
+.bas{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 40%;
+    height: auto;
+    border-radius: 25%;
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+
+
+
+
+
+.dev{
+   
+    width: 25%;
+    height: 700px;
+    float: left;
+    margin-left: 4%;
+    border-radius: 1rem;
+    text-align: center;
+    border: 2px;
+    border-color: aqua;
+    border-style: inset;
+    -moz-box-shadow:4px 4px 4px 4px #4F42B5; -webkit-box-shadow:4px 4px 4px 4px #4F42B5; box-shadow:4px 4px 4px 4px #4F42B5;
+    margin-bottom: 3rem;
+
+}
+
+
+
+.dev2{
+    width: 25%;
+    height: 700px;
+    float: left;
+    margin-left: 8%;
+    border-radius: 1rem;
+    text-align: center;
+    border: 2px;
+    border-color: aqua;
+    border-style: inset;
+    -moz-box-shadow:4px 4px 4px 4px #4F42B5; -webkit-box-shadow:4px 4px 4px 4px #4F42B5; box-shadow:4px 4px 4px 4px #4F42B5;
+    margin-bottom: 3rem;
+}
+
+.dev3{
+    width: 25%;
+    height: 700px;
+    float: left;
+    margin-left: 8%;
+    border-radius: 1rem;
+    text-align: center;
+    border: 2px;
+    border-color: aqua;
+    border-style: inset;
+    -moz-box-shadow:4px 4px 4px 4px #4F42B5; 
+    -webkit-box-shadow:4px 4px 4px 4px #4F42B5; 
+    box-shadow:4px 4px 4px 4px #4F42B5;
+    margin-bottom: 3rem;
+}
+
+
+.dev4{
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    height: 200px;
+    float:left;
+    margin-left: 150px;
+    border-radius: 1rem;
+    border: 2px;
+    border-color: aqua;
+    border-style: inset;
+    -moz-box-shadow:4px 4px 4px 4px #4F42B5; -webkit-box-shadow:4px 4px 4px 4px #4F42B5; box-shadow:4px 4px 4px 4px #4F42B5
+}
+
+a:hover{
+    color: rgb(0, 0, 0);
+    background-color: bisque;
+    text-decoration: none;
+    font-weight: bolder;
+
+    
+}
+a{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.edit{
+    width: 275px;
+    height: 183px;
+    text-align: center;
+    border-radius: 0.5rem;
+}
+
+.edit2{
+    width: 275px;
+    height: 183px;
+    text-align: center;
+    border-radius: 0.5rem;
+}
